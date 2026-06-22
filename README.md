@@ -10,7 +10,7 @@ Internship assignments covering data exploration, visualization, model building,
 Data-Science-Internship-Task1-Iris/
 │
 ├── Task1_Iris_EDA/
-│   ├── Iris_EDA_Task1.ipynb     # Main Jupyter Notebook
+│   ├── Task1_ExploringandVisualizingIris     # Main Jupyter Notebook
 │   ├── Iris.csv                 # Dataset
 │   └── images/
 │       ├── scatter_plots.png
@@ -28,7 +28,7 @@ Data-Science-Internship-Task1-Iris/
 
 ### 🎯 Objective
 
-Understand how to read, summarize, and visualize a real-world dataset using Python. The goal is to develop core data exploration skills, including data loading, cleaning, summarization, and creating meaningful visualizations to uncover patterns in the data.
+Understand how to read, summarize, and visualize a real-world dataset using Python. The goal is to develop core data exploration skills, including data loading, cleaning, summarization, and the creation of meaningful visualizations to uncover patterns in the data.
 
 ---
 
@@ -128,9 +128,9 @@ Understand how to read, summarize, and visualize a real-world dataset using Pyth
 | 3 | **Weakest separator** | `SepalWidthCm` shows heavy overlap between species |
 | 4 | **Setosa is easiest** | Iris setosa is completely isolated in petal measurements |
 | 5 | **Versicolor & Virginica overlap** | These two species are harder to distinguish using sepal features |
-| 6 | **High correlation** | Petal Length and Petal Width are 96% correlated — they carry similar information |
+| 6 | **High correlation** | Petal Length and Petal Width are 96% correlated, they carry similar information |
 | 7 | **Minor outliers** | A few outliers exist in SepalWidthCm for Iris setosa |
-| 8 | **Balanced dataset** | 50 samples per class — ideal for unbiased model training in future tasks |
+| 8 | **Balanced dataset** | 50 samples per class, ideal for unbiased model training in future tasks |
 
 ---
 
@@ -145,8 +145,8 @@ pip install pandas matplotlib seaborn scikit-learn jupyter
 **Clone this repository:**
 
 ```bash
-git clone https://github.com/your-username/data-science-internship-tasks.git
-cd data-science-internship-tasks
+git clone https://github.com/your-username/Data-Science-Internship-Task1-Iris.git
+cd Data-Science-Internship-Task1-Iris
 ```
 
 **Navigate to Task 1:**
@@ -161,7 +161,7 @@ cd Task1_Iris_EDA
 jupyter notebook
 ```
 
-**Open** `Iris_EDA_Task1.ipynb` → **Kernel** → **Restart & Run All**
+**Open** `Task1_ExploringandVisualizingIris` → **Kernel** → **Restart & Run All**
 
 ---
 
