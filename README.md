@@ -167,14 +167,11 @@ jupyter notebook
 
 ### 🛠️ Technologies Used
 
-| Library | Version | Purpose |
-|---|---|---|
-| Python | 3.x | Programming language |
-| pandas | Latest | Data loading, cleaning, summarization |
-| matplotlib | Latest | Base plotting and figure customization |
-| seaborn | Latest | Statistical visualizations |
-| Jupyter Notebook | Latest | Interactive code environment |
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-green)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Models-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualisation-red)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualisation-purple)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow)
 
 ---
-
-*Task 1 Complete, EDA skills demonstrated using the Iris dataset.*
